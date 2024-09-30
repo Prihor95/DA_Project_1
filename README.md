@@ -1,6 +1,13 @@
 # DA_Project_1
 Proyecto Sprint 1 DA
 
+En este proyecto puse en practica los conceptos básicos de Python, 
+como fue la modicación de strings y mostrarlos, 
+convertir columnas en su tipo correcto, 
+crear bucles for para modificar valores, 
+crear bucles for para mostrar el total de una suma de valores,
+reportar imprimiendo strings y variables para mostrar valores con su descripción.
+
 Descripción del proyecto
 
 En este momento ya deberías conocer diferentes tipos de datos, incluidos los básicos como int, float y bool, además de tipos más complejos como strings (cadenas) y lists (listas). También has aprendido cómo convertir un tipo de datos a otro y realizar operaciones aritméticas con valores numéricos.
